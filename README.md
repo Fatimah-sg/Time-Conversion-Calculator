@@ -30,6 +30,9 @@ g++ calculator.cpp -o calculator
 2. Run it:
 ./calculator
 
+## Screenshot
+![Program Screenshot](calculator_screenshot.png) 
+
 ## Project Structure
 Time-Conversion-Calculator/
 ├── calculator.cpp        # Main source code  
