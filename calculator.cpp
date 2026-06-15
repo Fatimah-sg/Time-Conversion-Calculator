@@ -1,3 +1,13 @@
+/*
+    Time Conversion Calculator
+    Author: Fatimah Sajjadali
+    Version: 1.0.0
+    Description:
+    A C++ console-based calculator that converts between seconds, minutes,
+    and hours. Includes input validation, a menu-driven interface, and
+    clean user prompts.
+*/
+
 #include <iostream>
 #include <string>
 #include <limits>
