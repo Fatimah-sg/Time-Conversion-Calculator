@@ -31,7 +31,7 @@ g++ calculator.cpp -o calculator
 ./calculator
 
 ## Screenshot
-![Program Screenshot](calculator_screenshot.png) 
+![Program Screenshot](Calculator-Screenshot.png) 
 
 ## Project Structure
 Time-Conversion-Calculator/
